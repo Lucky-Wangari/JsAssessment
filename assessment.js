@@ -76,7 +76,7 @@ let numArray = [12,87,45,75,23,64,73]
 let mutiple = 0;
 let i = 0;
 while(i < numArray.length){
-    console.log(4 % numArray[i]);
+    console.log(4 * numArray[i]);
 }
       
    
